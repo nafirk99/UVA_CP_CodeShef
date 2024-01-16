@@ -1,0 +1,14 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string s1 = Console.ReadLine();  
+		string a1 = s1.ToLower();
+		string b1 = a1.Replace("a", "").Replace("e", "").Replace("i", "").Replace("o", "").Replace("u", "").Replace("y", "");
+		string c1 = b1.Replace("b", ".b").Replace("c", ".c").Replace("d", ".d").Replace("f", ".f").Replace("g", ".g").Replace("h", ".h").Replace("j", ".j").Replace("k", ".k").Replace("l", ".l").Replace("m", ".m").Replace("n", ".n").Replace("p", ".p").Replace("q", ".q").Replace("r", ".r").Replace("s", ".s").Replace("t", ".t").Replace("v", ".v").Replace("w", ".w").Replace("x", ".x").Replace("z", ".z");
+		Console.WriteLine(c1);
+		
+	}
+}

@@ -1,0 +1,22 @@
+QUESTION:
+https://www.codechef.com/problems/TAXSAVING
+
+SOLUTION:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		for(int i = 1; i <= T ; i++)
+		{
+		       string input = Console.ReadLine();
+			   string[] val = input.Split(" ");
+			   int val1 = int.Parse(val[0]);
+			   int val2 = int.Parse(val[1]);   
+			   Console.WriteLine(Math.Abs(val1 - val2));
+		}
+	}
+}

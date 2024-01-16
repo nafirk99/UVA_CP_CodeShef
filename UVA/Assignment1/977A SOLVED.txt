@@ -1,0 +1,18 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string T = Console.ReadLine();
+		string[] R = T.Split(' ');
+		int n = int.Parse(R[0]);
+		int k = int.Parse(R[1]);
+		for(int i=0; i<k; i++)
+		{
+			if (n%10 == 0){ n = n/10; }
+			else{ n = n-1; }	
+		}
+		Console.WriteLine(n);
+	}
+}

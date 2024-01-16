@@ -1,0 +1,142 @@
+using System;
+
+public enum cubeColor // Declaring Enum For All the Sides
+{
+	RED,
+	GREEN,
+	BLUE,
+	ORANGE,
+	WHITE,
+	YELLOW
+}
+
+public enum sides // All the sides of a rubiks Cube
+{
+	FRONT,
+	BACK,
+	RIGHT,
+	LEFT,
+	UP,
+	DOWN
+}
+
+public enum rotateClock // For Rotating Clockwise or anticlockwise
+{
+	CLOCKWISE,
+	ANTICLOCKWISE
+}
+
+public enum rotateLR // For Rotatitng ROW and COL
+{
+	LEFT,
+	RIGHT
+}
+
+public class eachCube // Setting Each Cube Color
+{
+	public string Color { get; set; } // Auto property
+
+	public eachCube(string color) // A constructor for initializing the color of cube
+	{
+		this.Color = color;
+	}
+}
+
+public class fullCube // Constructing the cube, 3x3x3 parts of eachCube Class, so we need array of ecachCube
+{
+	private eachCube[,, ] echcube; // Array of eachCube, which is 3x3x3
+	public fullCube() // A constructor to initialize all the mini cubes
+	{
+		echcube = new eachCube[3, 3, 3];
+		initializecube();
+	}
+
+	private void initializecube() // Function to initialize all the sides of 3x3x3
+	{
+		for (int row = 0; row < 3; row++)
+		{
+			for (int col = 0; col < 3; col++)
+			{
+				for (int val = 0; val < 0; val++)
+				{
+					cubeColor[] cc =
+					{
+						cubeColor.RED,
+						cubeColor.GREEN,
+						cubeColor.BLUE,
+						cubeColor.ORANGE,
+						cubeColor.WHITE,
+						cubeColor.YELLOW
+					};
+				}
+			}
+		}
+	}
+
+	// Before rotationg anything, we should select a side from 6 sides.
+	sides pickSide;
+	public void selectSide(sides side)
+	{
+		this.pickSide = side;
+	}
+
+	// Now that we have Picked a side, we will rotate that side of the cube.
+	// We can Rotate the side in 3 parts
+	// Rotate the whole side in clockwise or anticlockwise
+	// Rotate the row in right or left
+	// Rotate the col in up or down
+	// Rotate Clock
+	rotateClock rotateclock;
+	public void rotateSide(rotateClock clock)
+	{
+		this.rotateclock = clock;
+	}
+
+	// Rotate ROW
+	rotateLR ROW;
+	public void rotateROW(rotateLR row)
+	{
+		this.ROW = row;
+	}
+
+	// Rotate COL
+	rotateLR COL;
+	public void rotateCOL(rotateLR col)
+	{
+		this.COL = col;
+	}
+
+	// Check if Solved
+	public void checkSolved(fullCube cube)
+	{
+	//if(all sides are specific color)
+	}
+
+	// Show The Entire Rubick's Cube
+	public string showRubicksCube()
+	{
+		string a = "Rubicks Cube";
+		for (int row = 0; row < 3; row++)
+		{
+			for (int col = 0; col < 3; col++)
+			{
+				for (int val = 0; val < 0; val++)
+				{
+					Console.WriteLine("Rubick's Cube");
+				}
+			}
+		}
+
+		return a;
+	}
+}
+
+public class RubiksCube
+{
+	public static void Main()
+	{
+		Console.WriteLine("Cube Simulation.......");
+		fullCube cube = new fullCube();
+		Console.WriteLine(cube.showRubicksCube());
+	}
+}

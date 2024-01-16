@@ -1,0 +1,52 @@
+QUESTION:
+https://www.codechef.com/problems/FLOW001?tab=statement
+
+SOLUTION:
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+while(true)
+     {	
+		string num = Console.ReadLine();
+		if(num.Contains(" "))
+		{
+			
+		string[] values = num.Split(" ");
+		int	val1 = int.Parse(values[0]);
+		int val2 = int.Parse(values[1]);
+			Console.WriteLine(val1+val2);
+			
+		}
+     }
+	}
+}
+
+
+
+SOLUTION MAIN:
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+//while(true)
+for(int i = 1; i <= T ; i++)	
+     {	
+		string num = Console.ReadLine();
+		if(num.Contains(" "))
+		{
+			
+		string[] values = num.Split(" ");
+		int	val1 = int.Parse(values[0]);
+		int val2 = int.Parse(values[1]);
+			Console.WriteLine(val1+val2);
+			
+		}
+     }
+	}
+}

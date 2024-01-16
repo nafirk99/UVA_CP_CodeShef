@@ -1,0 +1,26 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string T = Console.ReadLine();
+		int U = 0; int L = 0;
+		for(int i=0; i<T.Length; i++)
+		{
+			if(Char.IsUpper(T[i]))
+		    { U++; }
+			else 
+			{L++;}
+		}
+		if(U>L)
+		{
+			Console.WriteLine(T.ToUpper());
+		}
+		else
+		{
+		    Console.WriteLine(T.ToLower());
+		}
+
+	}
+}

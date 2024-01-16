@@ -1,0 +1,54 @@
+https://acm.timus.ru/problemset.aspx?space=1&page=1&skipac=False&sort=difficulty
+https://workat.tech/problem-solving/practice?tags=dsa
+https://workat.tech/problem-solving/lists/beginner-problems/practice
+
+
+
+
+Progress
+https://dotnetfiddle.net/
+https://www.onlinegdb.com/
+https://www.codechef.com/practice-old
+https://workat.tech/problem-solving/lists/beginner-problems/practice
+
+
+
+The questions that I anticipate (ask your questions in the comments if needed):
+
+Q: How long do I try to solve the problem in the archive before reading the editorial? Like, 30 minutes?
+A: You don’t read the editorial. The best option is to choose an archive that doesn’t have editorials at all, so you don’t have to fight the urge to look at the solution.
+
+Q: Ugh, and what should I do if I can’t solve the problem?
+A: Abandon it, for now, switch to a different problem, return to it after a month or so. My usual approach was to open 10-15 problems, read them carefully, think a bit, choose the one I want to try and solve now, try for some time. If I don’t feel like I’m getting anywhere, switch to another problem.
+
+Q: Month?!
+A: Maybe even more. You need time to acquire new skills and discover new ways to look at this problem (by solving other problems). It doesn’t make sense to return in less than a month because you will only run through the same ideas you did before.
+
+Q: Ok, but how do I learn new techniques if I don’t read editorials? I’m not supposed to invent everything on my own, am I?
+A: Most of the time you don’t need to learn any advanced stuff to solve the problem, you can’t solve it because you are not trying hard enough or not paying attention to details or just being stupid. My experience even says that most Russian schoolchildren who do CP know too many algorithms.
+
+Q: But there are problems that require some standard things!
+A: OK, yes. The best option, in my opinion, is to have some person around who solves the same archive and is better than you. In case you are stuck on a problem for a long time (that’s not an hour, that’s several months) you should ask them “Do I have to know some standard technique to solve this?” Pay attention: not ask how to solve, or for a hint, just a yes/no question. Most of the time the answer will be “No”. In the case of a positive answer, they will be able to send you a link to an article or what to google to learn about the technique. After that, you still will have to apply this technique to the problem, and you are more likely to actually remember how to use it and why did you need it in the first place, which tremendously increases your chances to use it successfully in the future.
+
+Q: OK, which archive should I use?
+A: It is not that important, but you should use one and stick to it. I have used Timus because I’m from Ural region, there are numerous others: UVa, SPOJ, Codeforces archive (has editorials and too many problems, thus a warning) etc.
+
+To sum it up:
+
+In archives you learn how to solve problems, in contests you learn how to do it fast. I’m not saying that contests are not needed: speed is also very important, and it is good to keep you in competitive shape. Also participating in contests is just fun, that’s also very important.
+
+Acknowledging this and separating learning how to solve from contests can lead to better training, I believe.
+
+How to split the time between archives and contests? Well, contests are held in some fixed time, so when there is a contest that fits into your schedule, you shouldn’t miss it. Turn to archive when you want to practice and solve something which should be often, otherwise CP is probably not for you.
+
+
+
+
+
+
+
+
+
+
+
+

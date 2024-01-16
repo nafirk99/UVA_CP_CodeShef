@@ -1,0 +1,23 @@
+QUESTION:
+https://www.codechef.com/problems/WATERCONS
+
+SOLUTION:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		for(int i = 1; i <= T; i++)
+		{
+		   int wateramount = int.Parse(Console.ReadLine());
+			if(wateramount > 1999 )
+			{
+			  Console.WriteLine("YES");
+			}
+			else Console.WriteLine("NO");
+		}
+	}
+}

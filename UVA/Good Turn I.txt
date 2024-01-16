@@ -1,0 +1,39 @@
+QUESTION
+https://www.codechef.com/problems/GDTURN?tab=statement
+
+SOLUTION:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		
+		//while(true)
+			for(int i = 1; i <= T ; i++)
+		{
+		string numb = Console.ReadLine();
+			
+		if(numb.Contains(" "))
+		{
+			if(string.IsNullOrEmpty(numb))
+			break;
+			
+			string[] values = numb.Split(' ');
+			int val1 = int.Parse(values[0]);
+			int val2 = int.Parse(values[1]);
+			
+			if(val1 + val2 > 6){ Console.WriteLine("Yes"); }
+			else Console.WriteLine("NO");
+		}
+			
+			else
+			{
+			Console.WriteLine("");
+			}
+			
+		}
+	}
+}

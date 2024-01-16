@@ -1,0 +1,33 @@
+QUESTION
+https://www.codechef.com/problems/LUCKYSEVEN?tab=statement
+ 
+
+SOLVE 1:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+        Console.Write("Input Your String for lucky letter 7:");
+		string name = Console.ReadLine();
+		Console.WriteLine("Your Input is: " + name);
+		
+		char atseven = name[7-1];
+		Console.WriteLine(atseven);
+	}
+}
+
+SOLVE 2:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+        string name = Console.ReadLine();
+		Console.Write(name[6]);
+	}
+}

@@ -1,0 +1,54 @@
+using System;
+using System.Text;
+
+public class Program
+{
+	public static void Main()
+	{
+		string[] T = Console.ReadLine().Split();
+		string temp;
+		string a = T[0];
+		string b = T[1];
+		char pad = '0';
+		int C = 0;
+		string result = "";
+		int res;
+		int maxLength = Math.Max(a.Length, b.Length);
+		if (a.Length < b.Length) // Making sure a is the largest
+		{
+			temp = a;
+			a = b;
+			b = temp;
+		}
+
+		a = a.PadLeft(maxLength, pad); // Padding Done
+		b = b.PadLeft(maxLength, pad);
+		Console.WriteLine(a);
+		Console.WriteLine(b);
+		// int number = int.Parse(firstChar.ToString());
+		for (int i = maxLength - 1; i >= 0; i--)
+		{
+			int A = int.Parse(a[i].ToString());
+			int B = int.Parse(b[i].ToString());
+			//res = A + B;
+			if ((A + B) < 10)
+			{
+				int r = A + B;
+				result += r.ToString();
+				Console.Write(result);
+			}
+		//Console.Write($"{res}");
+		//result += res.ToString();
+		}
+
+		//Reverse
+		static string ReverseString(string s)
+		{
+			char[] array = s.ToCharArray();
+			Array.Reverse(array);
+			return new string (array);
+		}
+
+		Console.Write(result);
+	}
+}

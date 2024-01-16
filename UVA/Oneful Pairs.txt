@@ -1,0 +1,20 @@
+https://www.codechef.com/practice/PCSL03/problems/ONEFULPAIRS?tab=statement
+
+SOL:
+
+using System;
+
+public class Program
+{
+	public static void Main()
+	{
+		String T = Console.ReadLine();
+		string[] num = T.Trim().Split();
+		int a = int.Parse(num[0]);
+		int b = int.Parse(num[1]);
+		if (111 == (a + b + (a * b)))
+			Console.WriteLine("YES");
+		else
+			Console.WriteLine("NO");
+	}
+}

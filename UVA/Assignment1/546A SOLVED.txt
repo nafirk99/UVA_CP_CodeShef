@@ -1,0 +1,45 @@
+k,n,w
+1 2 1
+
+
+k,n,w
+3 17 4
+
+k= first banana k, 2nd banana 2k
+n= he has n dollars
+w= wants to buy w number of banana
+
+3+6+9+12 = 30
+
+30==n? 0
+else
+30-n (30-17=13)
+
+
+
+
+SOL:
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string T = Console.ReadLine();
+		string[] R = T.Split(' ');
+		int k = int.Parse(R[0]);
+		int n = int.Parse(R[1]);
+		int w = int.Parse(R[2]);
+		int total = 0;
+		for (int i=1; i<=w; i++)
+		{
+			total = total + (k*i);
+		}
+		if(total == n || total<n ){ Console.WriteLine("0"); }
+		else 
+		{
+			int borrow = total - n;
+			Console.WriteLine(borrow);	
+		} 
+	}
+}

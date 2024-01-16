@@ -1,0 +1,14 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string s1 = Console.ReadLine();    
+        string s2 = Console.ReadLine(); 
+		
+		string a1 = s1.ToUpper();
+		string a2 = s2.ToUpper();
+        Console.WriteLine(string.Compare(a1,a2));   
+	}
+}

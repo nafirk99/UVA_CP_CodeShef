@@ -1,0 +1,41 @@
+QUESTION:
+https://www.codechef.com/problems/TOP10
+
+SOLUTION:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		for (int i = 1; i <= T; i++)
+		{
+		 int rank = int.Parse(Console.ReadLine());
+			if(rank <= 10 && rank >= 0)
+			{
+			  Console.WriteLine("YES");
+			}
+			else
+				Console.WriteLine("NO");
+		}
+	}
+}
+
+SOLUTION 2:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		for (int i = 1; i <= T; i++)
+		{
+		 int rank = int.Parse(Console.ReadLine());
+			Console.WriteLine(rank <= 10? "YES" : "NO");
+		}
+	}
+}

@@ -1,0 +1,42 @@
+QUESTION:
+https://www.codechef.com/problems/BURGERS
+
+SOLUTION:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		for(int i=1; i<=T; i++)
+		{
+			string input = Console.ReadLine();
+			string[] val = input.Split(" ");
+			int val1 = int.Parse(val[0]);
+			int val2 = int.Parse(val[1]);
+			Console.WriteLine(val1<val2? val[0] : val[1] );
+		}
+	}
+}
+
+SOLUTION 2:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		for(int i=1; i<=T; i++)
+		{
+			string input = Console.ReadLine();
+			string[] val = input.Split(" ");
+			int val1 = int.Parse(val[0]);
+			int val2 = int.Parse(val[1]);
+			Console.WriteLine(Math.Min(val1, val2));
+		}
+	}
+}

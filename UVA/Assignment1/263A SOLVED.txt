@@ -1,0 +1,53 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int a = 0;
+		string b0 = Console.ReadLine(); a++;
+		string a0 = b0.Replace(" ", "");
+	        string b1 = Console.ReadLine(); a++;
+		string a1 = b1.Replace(" ", "");
+		string b2 = Console.ReadLine(); a++;
+		string a2 = b2.Replace(" ", "");
+		string b3 = Console.ReadLine(); a++;
+		string a3 = b3.Replace(" ", "");
+		string b4 = Console.ReadLine(); a++;
+		string a4 = b4.Replace(" ", "");
+		
+		for(int i=0; i<5; i++)
+		{
+			if(a0[i] == '1')
+			{
+				int posone = i;
+				int result1 = Math.Abs(posone - 2)+2;
+				Console.WriteLine(result1);
+			}
+		    else if(a1[i] == '1')
+			{
+				int posone = i;
+				int result1 = Math.Abs(posone - 2)+1;
+				Console.WriteLine(result1);
+			}
+			else if(a2[i] == '1')
+			{
+				int posone = i;
+				int result1 = Math.Abs(posone - 2);
+				Console.WriteLine(result1);
+			}
+			else if(a3[i] == '1')
+			{
+				int posone = i;
+				int result1 = Math.Abs(posone - 2)+1;
+				Console.WriteLine(result1);
+			}
+			else if(a4[i] == '1')
+			{
+				int posone = i;
+				int result1 = Math.Abs(posone - 2)+2;
+				Console.WriteLine(result1);
+			}  
+		}
+	}
+}

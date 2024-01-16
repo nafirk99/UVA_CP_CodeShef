@@ -1,0 +1,19 @@
+QUESTION:
+https://www.codechef.com/problems/FIT?tab=statement
+
+SOLUTION:
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int T = int.Parse(Console.ReadLine());
+		for (int i=1; i<=T; i++)
+		{
+		int distance = int.Parse(Console.ReadLine());
+			Console.WriteLine((distance+distance) * 5);
+		}
+	}
+}

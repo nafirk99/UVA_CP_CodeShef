@@ -1,0 +1,29 @@
+using System;
+
+class Program
+{
+	static void Main()
+	{
+		string input = Console.ReadLine();
+		string[] inp = input.Split();
+		int numerator = int.Parse(inp[0]);
+		int denominator = int.Parse(inp[1]);
+		int length = int.Parse(inp[2]);
+		if (numerator <= 100 && numerator >= 0 && denominator <= 100 && denominator >= 0)
+		{
+			// Getting left side of the point
+			int leftSide = numerator / denominator;
+			int remainder = numerator % denominator;
+			//Console.WriteLine(remainder + "this is remainder");
+			Console.Write(leftSide + ".");
+			// Now for the Right side of point
+			for (int i = 0; i < length; i++)
+			{
+				remainder *= 10;
+				int digit = remainder / denominator;
+				remainder %= denominator;
+				Console.Write(digit);
+			}
+		}
+	}
+}

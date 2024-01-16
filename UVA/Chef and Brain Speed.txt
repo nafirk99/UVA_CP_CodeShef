@@ -1,0 +1,20 @@
+https://www.codechef.com/practice/PCSL03/problems/CBSPEED
+
+SOL:
+
+using System;
+
+public class Program
+{
+	public static void Main()
+	{
+		string T = Console.ReadLine();
+		string[] t = T.Split(' ', ' ');
+		int a = int.Parse(t[0]);
+		int b = int.Parse(t[1]);
+		if (b > a)
+			Console.WriteLine("YES");
+		else
+			Console.WriteLine("NO");
+	}
+}

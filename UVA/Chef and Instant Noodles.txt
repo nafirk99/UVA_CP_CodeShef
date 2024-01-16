@@ -1,0 +1,17 @@
+https://www.codechef.com/practice/PCSL01/problems/INSTNOODLE?tab=statement
+
+Sol:
+
+using System;
+
+public class Program
+{
+	public static void Main()
+	{
+		string T = Console.ReadLine();
+		string[] word = T.Split();
+		int a = int.Parse(word[0]);
+		int b = int.Parse(word[1]);
+		Console.WriteLine(a * b);
+	}
+}

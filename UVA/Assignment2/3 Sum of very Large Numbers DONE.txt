@@ -1,0 +1,50 @@
+using System;
+
+public class Program
+{
+	public static void Main()
+	{
+		string[] T = Console.ReadLine().Split();
+		string temp;
+		string a = T[0];
+		string b = T[1];
+		char pad = '0';
+		int C = 0;
+		string result = "";
+		int maxLength = Math.Max(a.Length, b.Length);
+		if (a.Length < b.Length) // Making sure a is the largest
+		{
+			temp = a;
+			a = b;
+			b = temp;
+		}
+
+		a = a.PadLeft(maxLength, pad); // Padding Done
+		b = b.PadLeft(maxLength, pad); // Padding Done
+		for (int i = maxLength - 1; i >= 0; i--)
+		{
+			int A = int.Parse(a[i].ToString());
+			int B = int.Parse(b[i].ToString());
+			int res = A + B + C;
+			C = res / 10; // Calculate carry
+			result += (res % 10).ToString();
+		}
+
+		if (C > 0) // Sorbosesh Carry, if any
+		{
+			result += C.ToString();
+		}
+
+		// Reverse the result
+		result = ReverseString(result);
+		Console.WriteLine(result);
+	}
+
+	// Reverse method 
+	static string ReverseString(string s)
+	{
+		char[] array = s.ToCharArray();
+		Array.Reverse(array);
+		return new string (array);
+	}
+}
