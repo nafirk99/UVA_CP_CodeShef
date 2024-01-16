@@ -1,0 +1,85 @@
+using System;
+
+// Define the Employee class
+class Employee
+{
+	//Fields
+	private string name;
+	private decimal basicSalary;
+	public decimal taxRate;
+	// Properties
+	public string Name
+	{
+		get
+		{
+			return this.name;
+		}
+
+		set
+		{
+			this.name = value;
+		}
+	}
+
+	public decimal BasicSalary
+	{
+		get
+		{
+			return this.basicSalary;
+		}
+
+		set
+		{
+			this.basicSalary = value;
+		}
+	}
+
+	public decimal TaxRate
+	{
+		get
+		{
+			return this.taxRate;
+		}
+
+		set
+		{
+			this.taxRate = value;
+		}
+	}
+
+	// Constructor
+	public Employee(string name, decimal basicSalary, decimal taxRate)
+	{
+		Name = name;
+		BasicSalary = basicSalary;
+		TaxRate = taxRate;
+	}
+
+	// Method to calculate net salary
+	public decimal CalculateNetSalary()
+	{
+		decimal taxAmount = BasicSalary * TaxRate;
+		decimal netSalary = BasicSalary - taxAmount;
+		return netSalary;
+	}
+
+	// Method to display employee information
+	public void DisplayEmployeeInfo()
+	{
+		Console.WriteLine($"Employee Name: {Name}");
+		Console.WriteLine($"Basic Salary: {BasicSalary:C}");
+		Console.WriteLine($"Tax Rate: {TaxRate:P}");
+		Console.WriteLine($"Net Salary: {CalculateNetSalary():c}");
+	}
+}
+
+class Program
+{
+	static void Main()
+	{
+		// Create an instance of the Employee class
+		Employee employee = new Employee("John Doe", 50000m, 0.15m);
+		// Display employee information
+		employee.DisplayEmployeeInfo();
+	}
+}
