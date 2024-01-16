@@ -1,0 +1,16 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string T = Console.ReadLine();
+		int n = int.Parse(T);
+		int r=0;
+		r=n/5;
+		if ( n==(r*5))
+			Console.WriteLine(r);
+		else
+			Console.WriteLine(r+1);
+	}
+}

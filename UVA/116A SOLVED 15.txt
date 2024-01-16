@@ -1,0 +1,23 @@
+using System;
+
+public class Program
+{
+	public static void Main()
+	{
+		int n = int.Parse(Console.ReadLine());
+		int capacity = 0; 
+		int inside = 0;
+		
+		for (int i = 0; i < n; i++)
+		{
+			string[] R = Console.ReadLine().Split();
+			int a = int.Parse(R[0]);
+			int b = int.Parse(R[1]);
+			
+			inside -= a;
+			inside += b; 
+			capacity = Math.Max(capacity, inside);
+		}
+		Console.WriteLine(capacity);
+	}
+}

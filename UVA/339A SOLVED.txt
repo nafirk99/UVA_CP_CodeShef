@@ -1,0 +1,18 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string input = Console.ReadLine();
+		string inp1 = input.Replace("+", "");
+
+		char[] digits = inp1.ToString().ToCharArray();
+		Array.Sort(digits);
+		
+		string ctos = new string(digits);
+		string replace = ctos.Replace("1", "+1").Replace("2", "+2").Replace("3","+3");
+		Console.WriteLine(replace.Substring(1));
+
+	}
+}
