@@ -1,0 +1,14 @@
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\bin\Debug\net7.0\DetermineTheScore.exe
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\bin\Debug\net7.0\DetermineTheScore.deps.json
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\bin\Debug\net7.0\DetermineTheScore.runtimeconfig.json
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\bin\Debug\net7.0\DetermineTheScore.dll
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\bin\Debug\net7.0\DetermineTheScore.pdb
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\DetermineTheScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\DetermineTheScore.AssemblyInfoInputs.cache
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\DetermineTheScore.AssemblyInfo.cs
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\DetermineTheScore.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\DetermineTheScore.dll
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\refint\DetermineTheScore.dll
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\DetermineTheScore.pdb
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\DetermineTheScore.genruntimeconfig.cache
+D:\Codes\UVA\DetermineTheScore\DetermineTheScore\obj\Debug\net7.0\ref\DetermineTheScore.dll

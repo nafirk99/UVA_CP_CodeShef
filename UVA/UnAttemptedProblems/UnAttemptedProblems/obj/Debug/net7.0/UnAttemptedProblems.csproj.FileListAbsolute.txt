@@ -1,0 +1,14 @@
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\bin\Debug\net7.0\UnAttemptedProblems.exe
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\bin\Debug\net7.0\UnAttemptedProblems.deps.json
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\bin\Debug\net7.0\UnAttemptedProblems.runtimeconfig.json
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\bin\Debug\net7.0\UnAttemptedProblems.dll
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\bin\Debug\net7.0\UnAttemptedProblems.pdb
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\UnAttemptedProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\UnAttemptedProblems.AssemblyInfoInputs.cache
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\UnAttemptedProblems.AssemblyInfo.cs
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\UnAttemptedProblems.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\UnAttemptedProblems.dll
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\refint\UnAttemptedProblems.dll
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\UnAttemptedProblems.pdb
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\UnAttemptedProblems.genruntimeconfig.cache
+D:\Codes\UVA\UnAttemptedProblems\UnAttemptedProblems\obj\Debug\net7.0\ref\UnAttemptedProblems.dll

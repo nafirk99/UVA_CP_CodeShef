@@ -1,0 +1,14 @@
+D:\Codes\UVA\DoubleRent\DoubleRent\bin\Debug\net7.0\DoubleRent.exe
+D:\Codes\UVA\DoubleRent\DoubleRent\bin\Debug\net7.0\DoubleRent.deps.json
+D:\Codes\UVA\DoubleRent\DoubleRent\bin\Debug\net7.0\DoubleRent.runtimeconfig.json
+D:\Codes\UVA\DoubleRent\DoubleRent\bin\Debug\net7.0\DoubleRent.dll
+D:\Codes\UVA\DoubleRent\DoubleRent\bin\Debug\net7.0\DoubleRent.pdb
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\DoubleRent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\DoubleRent.AssemblyInfoInputs.cache
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\DoubleRent.AssemblyInfo.cs
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\DoubleRent.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\DoubleRent.dll
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\refint\DoubleRent.dll
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\DoubleRent.pdb
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\DoubleRent.genruntimeconfig.cache
+D:\Codes\UVA\DoubleRent\DoubleRent\obj\Debug\net7.0\ref\DoubleRent.dll

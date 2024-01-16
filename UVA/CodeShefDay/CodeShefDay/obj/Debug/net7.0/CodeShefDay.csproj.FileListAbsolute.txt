@@ -1,0 +1,14 @@
+D:\Codes\UVA\CodeShefDay\CodeShefDay\bin\Debug\net7.0\CodeShefDay.exe
+D:\Codes\UVA\CodeShefDay\CodeShefDay\bin\Debug\net7.0\CodeShefDay.deps.json
+D:\Codes\UVA\CodeShefDay\CodeShefDay\bin\Debug\net7.0\CodeShefDay.runtimeconfig.json
+D:\Codes\UVA\CodeShefDay\CodeShefDay\bin\Debug\net7.0\CodeShefDay.dll
+D:\Codes\UVA\CodeShefDay\CodeShefDay\bin\Debug\net7.0\CodeShefDay.pdb
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\CodeShefDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\CodeShefDay.AssemblyInfoInputs.cache
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\CodeShefDay.AssemblyInfo.cs
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\CodeShefDay.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\CodeShefDay.dll
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\refint\CodeShefDay.dll
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\CodeShefDay.pdb
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\CodeShefDay.genruntimeconfig.cache
+D:\Codes\UVA\CodeShefDay\CodeShefDay\obj\Debug\net7.0\ref\CodeShefDay.dll

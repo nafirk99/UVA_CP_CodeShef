@@ -1,0 +1,14 @@
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\bin\Debug\net7.0\CricketWorldCupQualifier.exe
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\bin\Debug\net7.0\CricketWorldCupQualifier.deps.json
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\bin\Debug\net7.0\CricketWorldCupQualifier.runtimeconfig.json
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\bin\Debug\net7.0\CricketWorldCupQualifier.dll
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\bin\Debug\net7.0\CricketWorldCupQualifier.pdb
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\CricketWorldCupQualifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\CricketWorldCupQualifier.AssemblyInfoInputs.cache
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\CricketWorldCupQualifier.AssemblyInfo.cs
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\CricketWorldCupQualifier.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\CricketWorldCupQualifier.dll
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\refint\CricketWorldCupQualifier.dll
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\CricketWorldCupQualifier.pdb
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\CricketWorldCupQualifier.genruntimeconfig.cache
+D:\Codes\UVA\CricketWorldCupQualifier\CricketWorldCupQualifier\obj\Debug\net7.0\ref\CricketWorldCupQualifier.dll

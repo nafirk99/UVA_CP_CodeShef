@@ -1,0 +1,14 @@
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\bin\Debug\net7.0\ChristmasGreetings.exe
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\bin\Debug\net7.0\ChristmasGreetings.deps.json
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\bin\Debug\net7.0\ChristmasGreetings.runtimeconfig.json
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\bin\Debug\net7.0\ChristmasGreetings.dll
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\bin\Debug\net7.0\ChristmasGreetings.pdb
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ChristmasGreetings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ChristmasGreetings.AssemblyInfoInputs.cache
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ChristmasGreetings.AssemblyInfo.cs
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ChristmasGreetings.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ChristmasGreetings.dll
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\refint\ChristmasGreetings.dll
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ChristmasGreetings.pdb
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ChristmasGreetings.genruntimeconfig.cache
+D:\Codes\UVA\ChristmasGreetings\ChristmasGreetings\obj\Debug\net7.0\ref\ChristmasGreetings.dll

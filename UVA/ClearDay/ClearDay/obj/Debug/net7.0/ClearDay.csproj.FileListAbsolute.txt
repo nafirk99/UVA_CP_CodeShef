@@ -1,0 +1,14 @@
+D:\Codes\UVA\ClearDay\ClearDay\bin\Debug\net7.0\ClearDay.exe
+D:\Codes\UVA\ClearDay\ClearDay\bin\Debug\net7.0\ClearDay.deps.json
+D:\Codes\UVA\ClearDay\ClearDay\bin\Debug\net7.0\ClearDay.runtimeconfig.json
+D:\Codes\UVA\ClearDay\ClearDay\bin\Debug\net7.0\ClearDay.dll
+D:\Codes\UVA\ClearDay\ClearDay\bin\Debug\net7.0\ClearDay.pdb
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ClearDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ClearDay.AssemblyInfoInputs.cache
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ClearDay.AssemblyInfo.cs
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ClearDay.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ClearDay.dll
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\refint\ClearDay.dll
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ClearDay.pdb
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ClearDay.genruntimeconfig.cache
+D:\Codes\UVA\ClearDay\ClearDay\obj\Debug\net7.0\ref\ClearDay.dll

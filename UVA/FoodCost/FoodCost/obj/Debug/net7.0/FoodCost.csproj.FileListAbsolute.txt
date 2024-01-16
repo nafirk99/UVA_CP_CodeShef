@@ -1,0 +1,14 @@
+D:\Codes\UVA\FoodCost\FoodCost\bin\Debug\net7.0\FoodCost.exe
+D:\Codes\UVA\FoodCost\FoodCost\bin\Debug\net7.0\FoodCost.deps.json
+D:\Codes\UVA\FoodCost\FoodCost\bin\Debug\net7.0\FoodCost.runtimeconfig.json
+D:\Codes\UVA\FoodCost\FoodCost\bin\Debug\net7.0\FoodCost.dll
+D:\Codes\UVA\FoodCost\FoodCost\bin\Debug\net7.0\FoodCost.pdb
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\FoodCost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\FoodCost.AssemblyInfoInputs.cache
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\FoodCost.AssemblyInfo.cs
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\FoodCost.csproj.CoreCompileInputs.cache
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\FoodCost.dll
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\refint\FoodCost.dll
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\FoodCost.pdb
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\FoodCost.genruntimeconfig.cache
+D:\Codes\UVA\FoodCost\FoodCost\obj\Debug\net7.0\ref\FoodCost.dll
