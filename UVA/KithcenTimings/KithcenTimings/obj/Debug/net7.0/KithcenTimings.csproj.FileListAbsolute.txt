@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\bin\Debug\net7.0\KithcenTimings.exe
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\bin\Debug\net7.0\KithcenTimings.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\bin\Debug\net7.0\KithcenTimings.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\bin\Debug\net7.0\KithcenTimings.dll
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\bin\Debug\net7.0\KithcenTimings.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.dll
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\refint\KithcenTimings.dll
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\KithcenTimings.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\KithcenTimings\KithcenTimings\obj\Debug\net7.0\ref\KithcenTimings.dll

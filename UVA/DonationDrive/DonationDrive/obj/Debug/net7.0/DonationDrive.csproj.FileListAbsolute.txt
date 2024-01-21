@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\bin\Debug\net7.0\DonationDrive.exe
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\bin\Debug\net7.0\DonationDrive.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\bin\Debug\net7.0\DonationDrive.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\bin\Debug\net7.0\DonationDrive.dll
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\bin\Debug\net7.0\DonationDrive.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.dll
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\refint\DonationDrive.dll
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\DonationDrive.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\DonationDrive\DonationDrive\obj\Debug\net7.0\ref\DonationDrive.dll

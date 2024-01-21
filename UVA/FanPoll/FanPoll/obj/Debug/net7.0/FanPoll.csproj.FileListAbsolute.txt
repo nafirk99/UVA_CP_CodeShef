@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\bin\Debug\net7.0\FanPoll.exe
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\bin\Debug\net7.0\FanPoll.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\bin\Debug\net7.0\FanPoll.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\bin\Debug\net7.0\FanPoll.dll
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\bin\Debug\net7.0\FanPoll.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.dll
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\refint\FanPoll.dll
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\FanPoll.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\FanPoll\FanPoll\obj\Debug\net7.0\ref\FanPoll.dll

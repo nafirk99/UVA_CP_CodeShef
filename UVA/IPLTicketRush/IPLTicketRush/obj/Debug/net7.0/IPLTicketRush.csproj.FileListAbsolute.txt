@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\bin\Debug\net7.0\IPLTicketRush.exe
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\bin\Debug\net7.0\IPLTicketRush.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\bin\Debug\net7.0\IPLTicketRush.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\bin\Debug\net7.0\IPLTicketRush.dll
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\bin\Debug\net7.0\IPLTicketRush.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.dll
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\refint\IPLTicketRush.dll
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\IPLTicketRush.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\IPLTicketRush\IPLTicketRush\obj\Debug\net7.0\ref\IPLTicketRush.dll

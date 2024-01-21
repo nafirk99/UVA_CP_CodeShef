@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\bin\Debug\net7.0\SportsSection.exe
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\bin\Debug\net7.0\SportsSection.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\bin\Debug\net7.0\SportsSection.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\bin\Debug\net7.0\SportsSection.dll
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\bin\Debug\net7.0\SportsSection.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.dll
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\refint\SportsSection.dll
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\SportsSection.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\SportsSection\SportsSection\obj\Debug\net7.0\ref\SportsSection.dll

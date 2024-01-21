@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\bin\Debug\net7.0\TaxInChefLand.exe
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\bin\Debug\net7.0\TaxInChefLand.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\bin\Debug\net7.0\TaxInChefLand.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\bin\Debug\net7.0\TaxInChefLand.dll
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\bin\Debug\net7.0\TaxInChefLand.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.dll
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\refint\TaxInChefLand.dll
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\TaxInChefLand.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\TaxInChefLand\TaxInChefLand\obj\Debug\net7.0\ref\TaxInChefLand.dll
