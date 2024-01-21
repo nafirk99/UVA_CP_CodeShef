@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\bin\Debug\net7.0\404NotFound.exe
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\bin\Debug\net7.0\404NotFound.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\bin\Debug\net7.0\404NotFound.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\bin\Debug\net7.0\404NotFound.dll
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\bin\Debug\net7.0\404NotFound.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.dll
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\refint\404NotFound.dll
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\404NotFound.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\404NotFound\404NotFound\obj\Debug\net7.0\ref\404NotFound.dll

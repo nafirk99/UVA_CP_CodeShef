@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\bin\Debug\net7.0\OffByOne.exe
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\bin\Debug\net7.0\OffByOne.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\bin\Debug\net7.0\OffByOne.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\bin\Debug\net7.0\OffByOne.dll
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\bin\Debug\net7.0\OffByOne.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.dll
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\refint\OffByOne.dll
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\OffByOne.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\OffByOne\OffByOne\obj\Debug\net7.0\ref\OffByOne.dll
