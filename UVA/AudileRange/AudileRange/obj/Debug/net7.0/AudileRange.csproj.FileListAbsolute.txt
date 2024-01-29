@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\bin\Debug\net7.0\AudileRange.exe
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\bin\Debug\net7.0\AudileRange.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\bin\Debug\net7.0\AudileRange.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\bin\Debug\net7.0\AudileRange.dll
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\bin\Debug\net7.0\AudileRange.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.dll
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\refint\AudileRange.dll
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\AudileRange.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\AudileRange\AudileRange\obj\Debug\net7.0\ref\AudileRange.dll

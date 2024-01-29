@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\bin\Debug\net7.0\BoneAppetit.exe
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\bin\Debug\net7.0\BoneAppetit.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\bin\Debug\net7.0\BoneAppetit.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\bin\Debug\net7.0\BoneAppetit.dll
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\bin\Debug\net7.0\BoneAppetit.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.dll
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\refint\BoneAppetit.dll
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\BoneAppetit.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\BoneAppetit\BoneAppetit\obj\Debug\net7.0\ref\BoneAppetit.dll

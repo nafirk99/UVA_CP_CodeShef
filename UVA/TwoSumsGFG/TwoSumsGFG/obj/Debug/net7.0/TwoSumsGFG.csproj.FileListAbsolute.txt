@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\bin\Debug\net7.0\TwoSumsGFG.exe
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\bin\Debug\net7.0\TwoSumsGFG.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\bin\Debug\net7.0\TwoSumsGFG.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\bin\Debug\net7.0\TwoSumsGFG.dll
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\bin\Debug\net7.0\TwoSumsGFG.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.dll
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\refint\TwoSumsGFG.dll
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\TwoSumsGFG.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\TwoSumsGFG\TwoSumsGFG\obj\Debug\net7.0\ref\TwoSumsGFG.dll

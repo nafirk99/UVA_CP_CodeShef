@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleHunt", "PuzzleHunt\PuzzleHunt.csproj", "{B55C7CBC-0B76-4D4D-8ACF-FC83245D8BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55C7CBC-0B76-4D4D-8ACF-FC83245D8BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55C7CBC-0B76-4D4D-8ACF-FC83245D8BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55C7CBC-0B76-4D4D-8ACF-FC83245D8BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55C7CBC-0B76-4D4D-8ACF-FC83245D8BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED66F6A-8445-4ECA-9F56-13EC33B85D8D}
+	EndGlobalSection
+EndGlobal

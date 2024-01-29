@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\bin\Debug\net7.0\WhoIsTaller.exe
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\bin\Debug\net7.0\WhoIsTaller.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\bin\Debug\net7.0\WhoIsTaller.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\bin\Debug\net7.0\WhoIsTaller.dll
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\bin\Debug\net7.0\WhoIsTaller.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.dll
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\refint\WhoIsTaller.dll
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\WhoIsTaller.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\WhoIsTaller\WhoIsTaller\obj\Debug\net7.0\ref\WhoIsTaller.dll

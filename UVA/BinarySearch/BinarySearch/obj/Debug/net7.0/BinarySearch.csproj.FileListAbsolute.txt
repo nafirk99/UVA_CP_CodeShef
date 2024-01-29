@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\bin\Debug\net7.0\BinarySearch.exe
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\bin\Debug\net7.0\BinarySearch.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\bin\Debug\net7.0\BinarySearch.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\bin\Debug\net7.0\BinarySearch.dll
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\bin\Debug\net7.0\BinarySearch.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.dll
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\refint\BinarySearch.dll
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\BinarySearch.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\BinarySearch\BinarySearch\obj\Debug\net7.0\ref\BinarySearch.dll

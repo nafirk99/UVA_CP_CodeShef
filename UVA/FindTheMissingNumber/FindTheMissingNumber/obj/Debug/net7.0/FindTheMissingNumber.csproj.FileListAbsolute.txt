@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\net7.0\FindTheMissingNumber.exe
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\net7.0\FindTheMissingNumber.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\net7.0\FindTheMissingNumber.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\net7.0\FindTheMissingNumber.dll
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\bin\Debug\net7.0\FindTheMissingNumber.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.dll
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\refint\FindTheMissingNumber.dll
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\FindTheMissingNumber.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\FindTheMissingNumber\FindTheMissingNumber\obj\Debug\net7.0\ref\FindTheMissingNumber.dll

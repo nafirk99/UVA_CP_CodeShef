@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\bin\Debug\net7.0\ReachOnTime.exe
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\bin\Debug\net7.0\ReachOnTime.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\bin\Debug\net7.0\ReachOnTime.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\bin\Debug\net7.0\ReachOnTime.dll
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\bin\Debug\net7.0\ReachOnTime.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.dll
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\refint\ReachOnTime.dll
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ReachOnTime.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\ReachOnTime\ReachOnTime\obj\Debug\net7.0\ref\ReachOnTime.dll
