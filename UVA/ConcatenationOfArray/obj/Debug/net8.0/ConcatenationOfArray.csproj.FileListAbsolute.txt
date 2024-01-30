@@ -1,0 +1,15 @@
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\bin\Debug\net8.0\ConcatenationOfArray.exe
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\bin\Debug\net8.0\ConcatenationOfArray.deps.json
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\bin\Debug\net8.0\ConcatenationOfArray.runtimeconfig.json
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\bin\Debug\net8.0\ConcatenationOfArray.dll
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\bin\Debug\net8.0\ConcatenationOfArray.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.AssemblyInfoInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.AssemblyInfo.cs
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.csproj.CoreCompileInputs.cache
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.sourcelink.json
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.dll
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\refint\ConcatenationOfArray.dll
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.pdb
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ConcatenationOfArray.genruntimeconfig.cache
+D:\Codes\UVA_CP_CodeShef\UVA\ConcatenationOfArray\obj\Debug\net8.0\ref\ConcatenationOfArray.dll
